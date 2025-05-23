@@ -1,0 +1,101 @@
+.series{
+    font-size:35px;
+    padding: 15px;
+}
+
+
+
+.characters-page {
+    background-color: #141414;
+    color: #fff;
+    min-height: 100vh;
+}
+
+.characters-selection {
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.selection-title {
+    font-size: 3.5rem;
+    margin-bottom: 3rem;
+    font-weight: bold;
+}
+
+.characters-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.character-item {
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.character-item:hover {
+    transform: scale(1.05);
+}
+
+.character-avatar {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 1rem;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.character-item:hover .character-avatar {
+    border-color: #fff;
+}
+
+.character-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.character-name {
+    font-size: 1.5rem;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.character-item:hover .character-name {
+    opacity: 1;
+}
+
+@media (max-width: 768px) {
+    .character-avatar {
+        width: 120px;
+        height: 120px;
+    }
+    
+    .selection-title {
+        font-size: 2.5rem;
+    }
+}
+
+/* Adicione no final do seu arquivo CSS */
+.character-item.selected {
+    position: relative;
+    z-index: 10;
+}
+
+.character-item.selected::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--selected-color);
+    opacity: 0.7;
+    z-index: -1;
+    transition: background-color 0.3s ease;
+}

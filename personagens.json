@@ -1,0 +1,286 @@
+
+{
+    "personagens": [
+      {
+        "id": 1,
+        "nome": "Clary Fray",
+        "idade": "18",
+        "descricao": "Caçadora de sombras, filha de Jocelyn e Valentim. Por anos Clary viveu uma vida mundana com Jocelyn, até que o retorno de seu pai e seu irmão Jonathan ameaçaram seu novo mundo ",
+        "imagem": "imagens/clary.jpg",
+        "destaque": true
+      },
+      {
+        "id": 2,
+        "nome": "Jace Herondale",
+        "idade": "21",
+        "descricao": "É considerado o melhor caçador de sombras do seu tempo, e um herói da guerra mortal e da guerra maligna, atualmente co-líder do instituto de Nova York, junto com sua namorada Clary",
+        "imagem": "imagens/jace.jpg",
+        "destaque": true
+      },
+      {
+        "id": 3,
+        "nome": "Izzy Lightwood",
+        "idade": "20",
+        "descricao": "É uma caçadora de sombras atualmente sob a Conclave de Nova York, irmã de Alec, Jace e Max",
+        "imagem": "imagens/izzy.jpg",
+        "destaque": true
+      },
+      {
+        "id": 4,
+        "nome": "Alec Lightwood",
+        "idade": "23",
+        "descricao": "É um caçador de sombras e o atual Cônsul da Clave, irmão mais velho de Izzy, Jace e Max e casado com Magnus Bane",
+        "imagem": "imagens/alec.jpg",
+        "destaque": true
+      },
+      {
+        "id": 5,
+        "nome": "Magnus Bane",
+        "idade": "Desconhecida",
+        "descricao": "É um feiticeiro imortal muito poderoso, que está vivo há séculos, foi o antigo alto feiticeiro do Brooklyn e atualmente casado com Alec",
+        "imagem": "imagens/magnus.jpg",
+        "destaque": true
+      },
+      {
+        "id": 6,
+        "nome": "Scott McCall",
+        "idade": "18",
+        "descricao": "Protagonista da série, um lobisomem mordido por Peter Hale, mais tarde se torna um Alfa entrentando vários perigos e ameaças sobrenaturais",
+        "imagem": "imagens/scott.jpg",
+        "destaque": true
+      },{
+        "id": 7,
+        "nome": "Stiles Stilinski",
+        "idade": "18",
+        "descricao": "Melhor amigo do principal, foi o primeiro a saber da transformação de seu amigo em lobisomem, se tornou obsecado na vida sobrenatural, embora não tivesse nenhum desejo de se tornar lobisomem",
+        "imagem": "imagens/stiles.jpg",
+        "destaque": true
+      },
+      {
+        "id": 8,
+        "nome": "Derek Hale",
+        "idade": "Indefinido",
+        "descricao": "Inicialmente mentor de Scott, depois amigo e parceiro dele. Assim protegendo a alcateia juntos",
+        "imagem": "imagens/derek.jpg",
+        "destaque": true
+      },
+      {
+        "id": 9,
+        "nome": "Alisson Argent",
+        "idade": "18",
+        "descricao": "Protagonista ao lado de seu primeiro amor Scott e seus amigos, ela desempenhou papel importante na descoberta de alguns seres sobrenaturais",
+        "imagem": "imagens/alisson1.jpg",
+        "destaque": true
+      },
+      {
+        "id": 10,
+        "nome": "Lydia Martin",
+        "idade": "18",
+        "descricao": "Arrogante e patricinha no inicio da série, porém muito inteligente. Com o tempo, descobre-se uma Banshee e  iniciou sua aventura no mundo sobrenatural ao lado de Scott",
+        "imagem": "imagens/lydia.jpg",
+        "destaque": true
+      },
+      {
+        "id": 11,
+        "nome": "Eleven",
+        "idade": "15",
+        "descricao": "Personagem principal, menina que tem poderes sobrenaturais e é vítima de experimentos passa por diversas aventuras e desafios com seu grupo de amigos",
+        "imagem": "imagens/eleven.png",
+        "destaque": true
+      },
+      {
+        "id": 12,
+        "nome": "Mike",
+        "idade": "15",
+        "descricao": "Um dos meninos do grupo, o primeiro a conhecer Eleven, futuramente se tornam namorado e namorada",
+        "imagem": "imagens/mike.png",
+        "destaque": true
+      },
+      {
+        "id": 13,
+        "nome": "Lucas Sinclair",
+        "idade": "15",
+        "descricao": "Participante do grupo principal da série, participa das lutas e é namorado de Max ",
+        "imagem": "imagens/lucas.jpg",
+        "destaque": true
+      },
+      {
+        "id": 14,
+        "nome": "Dustin Henderson",
+        "idade": "15",
+        "descricao": "Participantedo grupo principal do grupo, com uma doença genética rara (Displasia cleidocraniana), sofrendo bullying",
+        "imagem": "imagens/dustin.jpg",
+        "destaque": true
+      },
+      {
+        "id": 15,
+        "nome": "Max Mayfield",
+        "idade": "15",
+        "descricao": "Participante do grupo principal da série, se torna melhor amiga de Eleven e inicia um relacionamento com Lucas",
+        "imagem": "imagens/max.jpg",
+        "destaque": true
+      },
+      {
+        "id": 16,
+        "nome": "Sabrina Spellman",
+        "idade": "16",
+        "descricao": "Filha de Edward e Diana Spellman, tornando-a meia mortal e meia bruxa, sendo revelado que seu pai verdadeiro é o senhor das trevas",
+        "imagem": "imagens/sabrina.jpg",
+        "destaque": true
+      },
+      {
+        "id": 17,
+        "nome": "Lucifer",
+        "idade": "Indefinido",
+        "descricao": "É um anjo caído e adorado pelas bruxas, ele também é pai de Sabrina Spellman",
+        "imagem": "imagens/lucifer.jpg",
+        "destaque": true
+      },
+      {
+        "id": 18,
+        "nome": "Salem",
+        "idade": "3",
+        "descricao": "Gato preto, chamado por Sabrina através de um ritual, apesar de não crer ter funcionado, Salem apareceu para ela na noite e no mesmo dia assumiu a forma de um gato",
+        "imagem": "imagens/salem.jpg",
+        "destaque": true
+      },
+      {
+        "id": 19,
+        "nome": "Nicholas Scratch",
+        "idade": "19",
+        "descricao": "É um bruxo da academia de artes ocultas que ao mando de Lucifer, tornou-se amigo de Sabrina, porém, durante sua missão ele se apaixona por ela",
+        "imagem": "imagens/nicolas.jpg",
+        "destaque": true
+      },
+      {
+        "id": 20,
+        "nome": "Prudence Blackwood",
+        "idade": "19",
+        "descricao": "É uma bruxa junto das irmãs estranhas, frequentando a academia de artes ocultas",
+        "imagem": "imagens/prudence.jpg",
+        "destaque": true
+      },
+      {
+        "id": 21,
+        "nome": "Veronica Lodge",
+        "idade": "17",
+        "descricao": "Amiga de Betty e Jughead e com relacionamento amoroso com Archie, juntos desvandam vários mistérios",
+        "imagem": "imagens/veronica.jpg",
+        "destaque": true
+      },
+      {
+        "id": 22,
+        "nome": "Betty Cooper",
+        "idade": "17",
+        "descricao": "Melhor amiga de Verônica, namorada de Jughead e escritora do jornal da escola",
+        "imagem": "imagens/betty.jpg",
+        "destaque": true
+      },
+      {
+        "id": 23,
+        "nome": "Jughead Jones",
+        "idade": "17",
+        "descricao": "Narrador oniciente da série e escritor de um romance em andamento, além de namorado de Betty Cooper e melhor amigo de Archie e Verônica",
+        "imagem": "imagens/jughead.jpg",
+        "destaque": true
+      },
+      {
+        "id": 24,
+        "nome": "Cheryl Blossom ",
+        "idade": "17",
+        "descricao": "Além de irmã gêmea do falecido Jason Blossom, é lider de torcida e mesmo com as diferenças amiga do grupo principal da série",
+        "imagem": "imagens/cheryl.jpg",
+        "destaque": true
+      },
+      {
+        "id": 25,
+        "nome": "Archie Andrews",
+        "idade": "17",
+        "descricao": "Melhor amigo de Betty e Jughead, se relaciona com verônica no decorrer da série, e se torna fundador do Circulo Vermelho",
+        "imagem": "imagens/archie.jpg",
+        "destaque": true
+      },
+      {
+        "id": 26,
+        "nome": "Aria Montgomery",
+        "idade": "17",
+        "descricao": "É uma das Liars e protagonistas principais da série, tem um relacionamento secreto com seu professor, que esconde um segredo",
+        "imagem": "imagens/aria.jpg",
+        "destaque": true
+      },
+      {
+        "id": 27,
+        "nome": "Alisson DiLaurentis",
+        "idade": "15",
+        "descricao": "É uma das Liars, e desaparece ao decorrer da série, envolvida em diversos mistérios",
+        "imagem": "imagens/alisson2.jpg",
+        "destaque": true
+      },
+      {
+        "id": 28,
+        "nome": "Hannah Marin",
+        "idade": "17",
+        "descricao": "Uma Liar popular no colégio e lutava para se encaixar no grupo pois sofria bullying",
+        "imagem": "imagens/hanna.jpg",
+        "destaque": true
+      },
+      {
+        "id": 29,
+        "nome": "Spencer Hastings",
+        "idade": "17",
+        "descricao": "É uma das Liars, quer sempre impressionar todos ao seu redor, e não tem medo de derrubar alguém que esteja em seu caminho",
+        "imagem": "imagens/spencer.jpg",
+        "destaque": true
+      },
+      {
+        "id": 30,
+        "nome": "Emily Fields",
+        "idade": "17",
+        "descricao": "É uma das Liars, gentil e atleta que nutria um secreto amor por sua amiga Alisson DiLaurentis",
+        "imagem": "imagens/emily.jpg",
+        "destaque": true
+      },
+      {
+        "id": 31,
+        "nome": "JJ Maybank",
+        "idade": "16",
+        "descricao": "Um pogue, e melhor amigo de John B, é erradico e não pensa antes de agir, mas sempre pronto para uma aventura",
+        "imagem": "imagens/jj.jpg",
+        "destaque": true
+      },
+      {
+        "id": 32,
+        "nome": "John B",
+        "idade": "16",
+        "descricao": "Líder carismático dos pogues, perde seu pai em uma missão de um navio e se junta com seus amigos para uma busca épica",
+        "imagem": "imagens/john.jpg",
+        "destaque": true
+      },
+      {
+        "id": 33,
+        "nome": "Sarah Cameron",
+        "idade": "16",
+        "descricao": "É rica e popular, apesar das adversidades chama a atenção de John B e se envolve nas aventuras dos Pogues",
+        "imagem": "imagens/sarah.jpg",
+        "destaque": true
+      },
+      {
+        "id": 34,
+        "nome": "Kiara Carrera",
+        "idade": "16",
+        "descricao": "Kiara age como uma pogue, mas sua familia na verdade é uma Kook igual sua amiga Sarah.",
+        "imagem": "imagens/kiara.jpg",
+        "destaque": true
+      },
+      {
+        "id": 35,
+        "nome": "Pope Heyward ",
+        "idade": "16",
+        "descricao": "O mais inteligente dos pogues e tem uma bolsa de estudos em jogo, é a voz de advertencia no grupo",
+        "imagem": "imagens/pope.jpg",
+        "destaque": true
+      }
+
+
+    ]
+  }
